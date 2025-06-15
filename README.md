@@ -6,6 +6,9 @@ Este projeto simula a evolução do nível de pragas em uma lavoura ao longo de 
 
 O programa parte de um **estado inicial informado pelo usuário** e aplica uma **matriz de transição** para prever a probabilidade de ocorrência de cada estado após um determinado número de dias.
 
+## Link Documentação do Projeto
+file:///C:/Users/kawan/Downloads/Relato%CC%81rio.pdf
+
 ## Como Rodar o Código
 
 ### Requisitos
